@@ -1,5 +1,5 @@
 # 🎓 Student Performance Excel Dashboard
-![Dashboard Preview](Screenshot%20of%20the%20Dashboard.png)  
+![Dashboard Preview](/Screenshot.png)  
 # 📌 Project Overview  
 This project analyzes factors that influence student exam performance using an interactive Excel dashboard.
 The dataset includes variables such as study hours, attendance, parental involvement, tutoring, motivation, and more, and the dashboard highlights how these factors impact exam scores.  
